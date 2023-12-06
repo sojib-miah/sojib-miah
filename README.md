@@ -1,4 +1,3 @@
-@@ -18,13 +18,13 @@ Skills:  BOOTSTRAP / Javascript / JS / HTML / CSS
 
 - 🌱 I’m currently learning Python.
 
